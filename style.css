@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+}
+.logo{
+    width: 25%;
+    height: 100%;
+    margin-right: 22%;
+}
+.sbt{
+    background-color: #9D88CE;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 8px 15px;
+}
+.td{
+    text-decoration-line: underline;
+}
+input{
+    border-radius: 5px 5px;
+}
+.c{
+    width: 100px;
+}
+.cnm{
+    color: black;
+}
+.kits{
+    width: 200px;
+    margin: 20px;
+    padding: 10px 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+#card{
+    width: 300px;
+}
+.cpad{
+    padding: 40px;
+}
+.vds{
+    width: 210px;
+    margin: 10px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+}
+.cdvd{
+    width: 200px;
+    border: 2px solid gray;
+    border-radius: 20px;
+}
+.ch{
+    width: 200px;
+}
+.dif{
+    width: 400px;
+}
+.str{
+    color: gold;
+}
+.tick{
+    color: rgb(20, 20, 255);
+}
+.owli{
+    display: none;
+}
+.knsp{
+    padding: 30px 50px;
+    line-height: 24px;
+}
+.kuimgs{
+    width: 470px;
+}
+.icon{
+    width: 300px;
+}
+a{
+    text-decoration: none !important;
+}
+.sch{
+
+}
+@media(max-width:576px){
+    .sch{
+        display: none;
+    }
+}
+@media(max-width:900px){
+    .sch{
+        display: none;
+    }
+}
